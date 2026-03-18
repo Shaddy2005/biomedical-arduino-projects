@@ -25,7 +25,7 @@ Classifies reading as Bradycardia, Normal, or Tachycardia.
 - Git version control
 
 ## Wokwi Simulation
-[Paste your Wokwi project link here]
+[Click here to view the simulation][https://wokwi.com/projects/458596672496898049]
 
 ## Medical Relevance
 This is the foundation of any patient vitals monitor. The same
